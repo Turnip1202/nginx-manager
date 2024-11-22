@@ -1,0 +1,1 @@
+import{av as r,G as n,C as o,y as t}from"./index-BgMB_QJ_.js";const s={};function a(c,e){return t(),n("div",null,e[0]||(e[0]=[o("h1",null,"error",-1)]))}const d=r(s,[["render",a]]);export{d as default};

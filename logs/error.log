@@ -1,0 +1,194 @@
+2024/11/21 10:09:55 [error] 20136#26820: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-BgMB_QJ_.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-BgMB_QJ_.js HTTP/1.1", host: "localhost", referrer: "http://localhost/dist/"
+2024/11/21 10:09:55 [error] 20136#26820: *2 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-C-eikMWz.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-C-eikMWz.css HTTP/1.1", host: "localhost", referrer: "http://localhost/dist/"
+2024/11/21 10:09:55 [error] 20136#26820: *2 CreateFile() "S:\Nginx\nginx-1.27.2/html/vite.svg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /vite.svg HTTP/1.1", host: "localhost", referrer: "http://localhost/dist/"
+2024/11/21 10:09:55 [error] 20136#26820: *4 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-BgMB_QJ_.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-BgMB_QJ_.js HTTP/1.1", host: "localhost"
+2024/11/21 10:09:58 [error] 20136#26820: *2 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-C-eikMWz.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-C-eikMWz.css HTTP/1.1", host: "localhost", referrer: "http://localhost/dist/"
+2024/11/21 10:22:46 [error] 20136#26820: *9 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/21 10:25:43 [error] 17904#24168: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/11/21 10:36:52 [error] 17904#24168: *2 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:39:55 [notice] 16564#26440: signal process started
+2024/11/21 10:39:57 [notice] 16788#25156: signal process started
+2024/11/21 10:39:57 [error] 16788#25156: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 10:40:16 [error] 17904#24168: *3 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:44:49 [notice] 28452#26768: signal process started
+2024/11/21 10:44:59 [error] 17904#24168: *4 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:45:00 [error] 17904#24168: *4 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:45:06 [error] 17904#24168: *4 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-BgMB_QJ_.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-BgMB_QJ_.js HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/dist/"
+2024/11/21 10:45:06 [error] 17904#24168: *5 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-C-eikMWz.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-C-eikMWz.css HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/dist/"
+2024/11/21 10:45:06 [error] 17904#24168: *5 CreateFile() "S:\Nginx\nginx-1.27.2/html/vite.svg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /vite.svg HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/dist/"
+2024/11/21 10:46:06 [notice] 20408#19708: signal process started
+2024/11/21 10:46:07 [notice] 16864#28452: signal process started
+2024/11/21 10:46:07 [error] 16864#28452: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 10:46:47 [error] 17904#24168: *6 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:46:48 [error] 17904#24168: *6 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/11/21 10:47:34 [notice] 23384#14776: signal process started
+2024/11/21 10:47:35 [notice] 28148#19212: signal process started
+2024/11/21 10:47:35 [error] 28148#19212: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 10:47:43 [error] 17904#24168: *7 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:47:43 [error] 17904#24168: *7 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/11/21 10:47:49 [error] 17904#24168: *7 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:47:53 [error] 17904#24168: *8 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2024/11/21 10:47:54 [error] 17904#24168: *8 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/11/21 10:48:06 [error] 17904#24168: *7 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-BgMB_QJ_.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-BgMB_QJ_.js HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/dist/"
+2024/11/21 10:48:06 [error] 17904#24168: *11 CreateFile() "S:\Nginx\nginx-1.27.2/html/assets/index-C-eikMWz.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /assets/index-C-eikMWz.css HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/dist/"
+2024/11/21 10:49:55 [notice] 19768#27356: signal process started
+2024/11/21 11:00:27 [notice] 28560#3400: signal process started
+2024/11/21 11:00:31 [notice] 948#16628: signal process started
+2024/11/21 11:00:31 [error] 948#16628: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 11:01:56 [notice] 9448#25904: signal process started
+2024/11/21 11:11:21 [notice] 20000#24196: signal process started
+2024/11/21 11:11:25 [notice] 26988#20920: signal process started
+2024/11/21 11:11:25 [error] 26988#20920: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 11:12:15 [notice] 8836#3484: signal process started
+2024/11/21 11:13:33 [notice] 23132#2148: signal process started
+2024/11/21 11:13:37 [notice] 25512#28764: signal process started
+2024/11/21 11:13:37 [error] 25512#28764: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 11:15:02 [notice] 23096#19136: signal process started
+2024/11/21 11:18:31 [notice] 9084#19868: signal process started
+2024/11/21 11:24:07 [notice] 1932#280: signal process started
+2024/11/21 11:25:05 [notice] 21480#272: signal process started
+2024/11/21 11:25:07 [notice] 5672#28904: signal process started
+2024/11/21 11:25:07 [error] 5672#28904: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 11:32:11 [notice] 29640#10312: signal process started
+2024/11/21 11:46:22 [notice] 11588#23108: signal process started
+2024/11/21 12:25:27 [notice] 26936#27220: signal process started
+2024/11/21 12:26:22 [notice] 13736#16512: signal process started
+2024/11/21 12:26:37 [notice] 17428#21076: signal process started
+2024/11/21 12:27:00 [notice] 8120#28800: signal process started
+2024/11/21 12:31:41 [notice] 26184#13848: signal process started
+2024/11/21 12:31:52 [notice] 17888#27756: signal process started
+2024/11/21 12:32:00 [notice] 6800#27196: signal process started
+2024/11/21 12:32:12 [notice] 26372#19344: signal process started
+2024/11/21 12:34:04 [notice] 28868#29412: signal process started
+2024/11/21 12:40:38 [notice] 1920#16984: signal process started
+2024/11/21 12:40:49 [notice] 16168#14180: signal process started
+2024/11/21 12:40:57 [notice] 26048#27396: signal process started
+2024/11/21 12:41:24 [notice] 18904#26772: signal process started
+2024/11/21 12:42:00 [notice] 29384#26480: signal process started
+2024/11/21 12:42:05 [notice] 2396#28396: signal process started
+2024/11/21 12:42:16 [notice] 25156#26312: signal process started
+2024/11/21 12:42:39 [notice] 7916#21224: signal process started
+2024/11/21 12:42:52 [notice] 19344#19868: signal process started
+2024/11/21 12:43:42 [notice] 29440#28980: signal process started
+2024/11/21 12:44:49 [notice] 7264#10588: signal process started
+2024/11/21 12:52:11 [notice] 27792#16548: signal process started
+2024/11/21 12:52:45 [notice] 23880#5916: signal process started
+2024/11/21 13:13:46 [notice] 29392#17828: signal process started
+2024/11/21 13:23:58 [notice] 13352#15632: signal process started
+2024/11/21 13:47:47 [notice] 13316#29632: signal process started
+2024/11/21 13:47:57 [notice] 28028#29200: signal process started
+2024/11/21 13:47:57 [error] 28028#29200: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 13:56:27 [notice] 17712#2932: signal process started
+2024/11/21 13:56:27 [error] 17712#2932: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 13:57:19 [notice] 28944#10764: signal process started
+2024/11/21 13:57:39 [notice] 4596#15096: signal process started
+2024/11/21 13:57:39 [error] 4596#15096: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:01:21 [notice] 9812#25636: signal process started
+2024/11/21 14:01:21 [error] 9812#25636: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:01:40 [notice] 5236#6444: signal process started
+2024/11/21 14:01:40 [error] 5236#6444: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:01:46 [notice] 11128#27740: signal process started
+2024/11/21 14:01:46 [error] 11128#27740: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:02:06 [notice] 29072#27908: signal process started
+2024/11/21 14:02:06 [error] 29072#27908: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:02:23 [notice] 16808#20224: signal process started
+2024/11/21 14:02:23 [error] 16808#20224: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:03:31 [notice] 5952#28052: signal process started
+2024/11/21 14:03:53 [notice] 28132#22740: signal process started
+2024/11/21 14:05:11 [notice] 29632#28028: signal process started
+2024/11/21 14:05:47 [notice] 14192#3124: signal process started
+2024/11/21 14:06:07 [notice] 17088#2960: signal process started
+2024/11/21 14:06:07 [error] 17088#2960: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:06:51 [notice] 25624#28168: signal process started
+2024/11/21 14:06:51 [error] 25624#28168: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:07:03 [notice] 11764#10192: signal process started
+2024/11/21 14:07:03 [error] 11764#10192: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:07:08 [notice] 29592#7596: signal process started
+2024/11/21 14:07:08 [error] 29592#7596: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:07:56 [notice] 23120#25084: signal process started
+2024/11/21 14:08:07 [notice] 10716#17872: signal process started
+2024/11/21 14:10:55 [notice] 22820#7676: signal process started
+2024/11/21 14:11:03 [notice] 8536#25040: signal process started
+2024/11/21 14:11:03 [error] 8536#25040: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:11:08 [notice] 8012#8704: signal process started
+2024/11/21 14:11:08 [error] 8012#8704: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:12:41 [notice] 29544#25164: signal process started
+2024/11/21 14:12:41 [error] 29544#25164: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:12:42 [notice] 27960#13320: signal process started
+2024/11/21 14:12:42 [error] 27960#13320: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:12:43 [notice] 16004#26976: signal process started
+2024/11/21 14:12:43 [error] 16004#26976: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:12:44 [notice] 25772#27992: signal process started
+2024/11/21 14:12:44 [error] 25772#27992: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:12:46 [notice] 3584#11476: signal process started
+2024/11/21 14:12:46 [error] 3584#11476: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 14:16:58 [notice] 26768#25344: signal process started
+2024/11/21 14:17:12 [notice] 5432#14824: signal process started
+2024/11/21 14:17:17 [notice] 29412#3288: signal process started
+2024/11/21 14:17:24 [notice] 29356#24956: signal process started
+2024/11/21 14:17:30 [notice] 9048#16832: signal process started
+2024/11/21 14:17:37 [notice] 28980#26116: signal process started
+2024/11/21 14:17:42 [notice] 3924#27224: signal process started
+2024/11/21 14:17:47 [notice] 27880#26296: signal process started
+2024/11/21 14:18:10 [notice] 22740#6844: signal process started
+2024/11/21 14:18:15 [notice] 27720#29072: signal process started
+2024/11/21 14:24:32 [notice] 28332#25560: signal process started
+2024/11/21 14:28:03 [notice] 13588#27056: signal process started
+2024/11/21 16:33:19 [emerg] 30420#27064: CreateFile() "S:\Nginx\nginx-1.27.2/nginx_configs\mime.types" failed (2: The system cannot find the file specified) in S:\Nginx\nginx-1.27.2/nginx_configs\8088.conf:7
+2024/11/21 16:38:42 [emerg] 28900#27152: CreateFile() "S:\Nginx\nginx-1.27.2/nginx_configs\mime.types" failed (2: The system cannot find the file specified) in S:\Nginx\nginx-1.27.2/nginx_configs\8088.conf:7
+2024/11/21 16:39:33 [emerg] 12792#15276: CreateFile() "S:\Nginx\nginx-1.27.2/nginx_configs\mime.types" failed (2: The system cannot find the file specified) in S:\Nginx\nginx-1.27.2/nginx_configs\8088.conf:7
+2024/11/21 16:40:58 [emerg] 20032#27988: CreateFile() "S:\Nginx\nginx-1.27.2/nginx_configs\mime.types" failed (2: The system cannot find the file specified) in S:\Nginx\nginx-1.27.2/nginx_configs\8088.conf:7
+2024/11/21 16:42:41 [emerg] 29456#31716: CreateFile() "S:\Nginx\nginx-1.27.2/nginx_configs\mime.types" failed (2: The system cannot find the file specified) in S:\Nginx\nginx-1.27.2/nginx_configs\8088.conf:7
+2024/11/21 16:51:35 [error] 16636#21768: *1 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/21 16:51:36 [error] 16636#21768: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/21 16:51:40 [error] 16636#21768: *1 directory index of "S:\Nginx\nginx-1.27.2/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/21 16:54:07 [error] 25812#26256: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/11/21 17:10:36 [error] 25548#24024: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8089", referrer: "http://localhost:8089/"
+2024/11/21 17:30:34 [notice] 25492#1252: signal process started
+2024/11/21 17:30:40 [notice] 25940#29948: signal process started
+2024/11/21 17:30:40 [error] 25940#29948: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:30:47 [notice] 26872#20308: signal process started
+2024/11/21 17:30:47 [error] 26872#20308: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:30:54 [notice] 5596#17668: signal process started
+2024/11/21 17:30:54 [error] 5596#17668: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:33:30 [notice] 21144#20816: signal process started
+2024/11/21 17:33:30 [error] 21144#20816: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:33:46 [notice] 8840#3852: signal process started
+2024/11/21 17:34:00 [notice] 22352#27788: signal process started
+2024/11/21 17:34:11 [notice] 23116#1952: signal process started
+2024/11/21 17:34:11 [error] 23116#1952: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:34:18 [notice] 8060#25828: signal process started
+2024/11/21 17:34:18 [error] 8060#25828: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:34:24 [notice] 26520#27480: signal process started
+2024/11/21 17:34:24 [error] 26520#27480: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:35:40 [notice] 3764#2408: signal process started
+2024/11/21 17:35:45 [notice] 16932#20648: signal process started
+2024/11/21 17:35:45 [error] 16932#20648: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:35:53 [notice] 28100#25616: signal process started
+2024/11/21 17:35:53 [error] 28100#25616: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:35:58 [notice] 26784#18268: signal process started
+2024/11/21 17:35:58 [error] 26784#18268: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:36:00 [notice] 25076#27856: signal process started
+2024/11/21 17:36:00 [error] 25076#27856: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:36:52 [notice] 2628#16440: signal process started
+2024/11/21 17:39:03 [notice] 19028#4580: signal process started
+2024/11/21 17:39:03 [error] 19028#4580: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:39:37 [notice] 19096#25212: signal process started
+2024/11/21 17:39:44 [notice] 29816#29948: signal process started
+2024/11/21 17:39:44 [error] 29816#29948: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/21 17:39:48 [notice] 10980#6800: signal process started
+2024/11/21 17:39:48 [error] 10980#6800: CreateFile() "S:\Nginx\nginx-1.27.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/11/22 10:33:13 [emerg] 24376#25708: unknown log format "on" in S:\Nginx\nginx-1.27.2/conf\custom_8087.conf:22
+2024/11/22 10:35:29 [emerg] 4700#9624: CreateFile() "S:/Nginx/conf/mime.types" failed (3: The system cannot find the path specified) in S:\Nginx\nginx-1.27.2/conf\custom_8087.conf:15
+2024/11/22 10:36:06 [emerg] 15344#17168: CreateFile() "S:/Nginx/conf/mime.types" failed (3: The system cannot find the path specified) in S:\Nginx\nginx-1.27.2/conf\custom_8087.conf:15
+2024/11/22 10:38:27 [emerg] 2996#6648: unknown log format "on" in S:\Nginx\nginx-1.27.2/conf\custom_8087.conf:22
+2024/11/22 10:42:30 [error] 12648#6244: *1 CreateFile() "S:\Nginx\nginx-1.27.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8087", referrer: "http://localhost:8087/"
+2024/11/22 10:49:18 [emerg] 13132#12908: no "events" section in configuration
+2024/11/22 10:49:26 [emerg] 5160#22316: no "events" section in configuration
+2024/11/22 10:49:56 [emerg] 20536#25092: no "events" section in configuration
+2024/11/22 10:50:04 [emerg] 11316#5884: no "events" section in configuration
+2024/11/22 10:50:09 [emerg] 11028#24780: no "events" section in configuration
+2024/11/22 10:52:01 [emerg] 25944#3176: no "events" section in configuration
+2024/11/22 10:52:16 [emerg] 10588#7684: no "events" section in configuration
+2024/11/22 10:52:19 [emerg] 13464#22052: no "events" section in configuration
+2024/11/22 14:28:14 [notice] 25704#1916: signal process started
